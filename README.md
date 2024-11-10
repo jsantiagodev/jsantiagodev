@@ -28,4 +28,4 @@ Aqui no GitHub, você encontrará alguns dos meus projetos, estudos e experiment
  
 </div>
 
-<p>Estou sempre aberto para novas oportunidades e colaborações</p>
+<p>Estou sempre aberto para novas oportunidades e colaborações!</p>
