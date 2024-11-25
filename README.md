@@ -16,6 +16,7 @@ Aqui no GitHub, você encontrará alguns dos meus projetos, estudos e experiment
 <div>
   <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5"/>
   <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3"/>
+  <img width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
 </div>
 
 <h2>Minhas redes sociais</h2>
@@ -23,7 +24,6 @@ Aqui no GitHub, você encontrará alguns dos meus projetos, estudos e experiment
 <div>
   <a href="https://instagram.com/jsantiagodrvn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/victorjsantiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
   <a href="mailto:victor._.augusto@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
  
 </div>
